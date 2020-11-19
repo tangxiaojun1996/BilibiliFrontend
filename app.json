@@ -1,4 +1,12 @@
 {
   "name": "BilibiliFrontend",
-  "displayName": "BilibiliFrontend"
+  "displayName": "BilibiliFrontend",
+  "expo": {
+    "name": "BilibiliFrontend",
+    "slug": "BilibiliFrontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
 }
